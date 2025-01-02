@@ -92,7 +92,7 @@ as follows:
 The Tide Team badge will be manually assigned to all active Tide maintainers – i.e those 
 who are listed as "Maintainers" on [the introduction page](../README.md#maintainers).
 
-### Tide Contributor
+### Tide Contributor 
 
 ![](../../.vuepress/public/assets/img/Tide-Contributor.png)
 
